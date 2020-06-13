@@ -11,3 +11,4 @@ else:
     print("X is equal to Y")
 
 print("Thank You For playing")
+print("this is to make life easy")
